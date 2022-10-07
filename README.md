@@ -8,12 +8,10 @@ The USGS is interested in building a new set of tools that will allow them to vi
 * Using Leaflet, a map was created that plots all the earthquakes from the dataset based on their longitude and latitude.
 * Included a popup that provides additional information about the earthquake when its associated marker is clicked.
 
-<<<<<<< HEAD
-See image below
-=======
-See image below
+
+### See image below
 
 
 ![leafletMap](https://user-images.githubusercontent.com/103005979/194433827-92eb1144-27a9-4f75-821d-ff04d7ff559b.png)
 
->>>>>>> b5ea2dccc5a08ce269d17a3255c5fb49367d19b4
+
